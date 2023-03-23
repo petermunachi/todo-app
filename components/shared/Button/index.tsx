@@ -29,6 +29,7 @@ const Button: React.FC<IProps> = ({
       color={defaultColor}
       borderColor={defaultBorderColor}
       type={type}
+      disabled={isLoading}
       onClick={onClick}
     >
       {isLoading ? (
