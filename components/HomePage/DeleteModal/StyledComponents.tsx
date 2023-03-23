@@ -4,7 +4,7 @@ export const Container = styled.div`
   width: 25rem;
 
   @media only screen and (max-width: 600px) {
-   width: 100%;
+    width: 100%;
   }
 `;
 

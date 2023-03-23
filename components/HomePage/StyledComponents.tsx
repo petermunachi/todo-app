@@ -13,7 +13,7 @@ export const Container = styled.div`
 export const TableWrapper = styled.div`
   display: flex;
   justify-content: center;
-  overflow-x:auto;
+  overflow-x: auto;
 
   @media only screen and (max-width: 600px) {
     display: block;
