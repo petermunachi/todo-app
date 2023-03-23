@@ -65,7 +65,7 @@ const Form: React.FC<IProps> = ({
         >
           Cancel
         </Button>
-        <Button bgColor="green" isLoading={isLoading} type="submit">
+        <Button bgColor="chartreuse" isLoading={isLoading} type="submit">
           Submit
         </Button>
       </S.ButtonGroup>

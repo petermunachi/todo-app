@@ -53,7 +53,7 @@ const DeleteModal = () => {
             Cancel
           </Button>
           <Button
-            bgColor="green"
+            bgColor="chartreuse"
             isLoading={buttonLoaders.isDeleting}
             type="button"
             onClick={handleDeleteUser}

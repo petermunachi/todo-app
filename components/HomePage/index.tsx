@@ -24,7 +24,7 @@ const HomePage = () => {
         <Card width="70%">
           <S.HeaderContainer>
             <h2>User List</h2>
-            <Button type="button" bgColor="blue" onClick={() => push('/add')}>
+            <Button type="button" bgColor="#1414ef" onClick={() => push('/add')}>
               Add new
             </Button>
           </S.HeaderContainer>

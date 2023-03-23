@@ -5,6 +5,10 @@ export const FormGroup = styled.div`
   margin: 0.5rem;
   display: flex;
   align-items: center;
+
+  @media only screen and (max-width: 600px) {
+    padding: 0.2rem 1rem;
+  }
 `;
 
 export const ButtonGroup = styled.div`
