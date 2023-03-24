@@ -2,6 +2,11 @@
 
 First, run the development server:
 
+For users with nvm 
+
+```bash
+nvm use
+
 ```bash
 npm run dev
 # or
